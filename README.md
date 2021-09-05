@@ -2,12 +2,14 @@
 
 ## **<p align="center">I recommend that you install [pywal](https://github.com/dylanaraps/pywal) for matching colors.</p>**
 
+## ↓ If you're having issues ↓
 * **DON'T** copy the launcher.rasi file from the polybar/scripts/rofi/ directory to anywhere else, rofi is integrated. You only need to press super + space to open it. If you want to change the default keybind for rofi, modify it in from the sxhkdrc file.
 * If you don't want to install my sxhkdrc file, you can copy this into there for the rofi shortcut;
 ```
 super + @space
    rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/hack/scripts/rofi/launcher.rasi
    ```
+* **Use the cava config only if you're using cava in Alacritty and it's tearing / lagging, fix is included in the config.**
 
 ## Extras for the style points :)          
 **[Instructions in the repositories]**
