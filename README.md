@@ -18,6 +18,9 @@ super + @space
 <details>
 <summary> Image previews of my rice </summary>
 
-pics
+![Desktop-rainbow](https://user-images.githubusercontent.com/45978346/132133003-42f6e528-a4de-4a96-93c6-0247d281976a.png)
+![Rofi Rice-rainbow](https://user-images.githubusercontent.com/45978346/132133004-22b15f04-b21f-46f7-b77f-4c8798301ef0.png)
+![Rice terminals](https://user-images.githubusercontent.com/45978346/132133014-6be5ef99-384e-476e-b536-04599d61e80b.png)
+
 
 </details>
