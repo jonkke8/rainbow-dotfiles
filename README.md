@@ -1,6 +1,6 @@
 
 
-## **<p align="center">I _highly_ recommend that you install [pywal](https://github.com/dylanaraps/pywal) for matching desktop colors.</p>**
+## **<p align="center">I recommend that you install [pywal](https://github.com/dylanaraps/pywal) for matching colors.</p>**
 
 * **DON'T** copy the Rofi .rasi files from the polybar directory to anywhere else, rofi is integrated. You only need to press super + space to open it. If you want to change the default keybind for rofi, modify it in from the sxhkdrc file.
 * If you don't want to install my sxhkdrc file, you can copy this into there for the rofi shortcut;
