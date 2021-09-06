@@ -1,6 +1,6 @@
 
 
-# Rofi is sort of broken for now. I'll be trying to fix it later on, but for now I recommend you either don't install rofi or modify it yourself.
+# Rofi's powermenu is currently broken. I'll be trying to fix it when I have time.
 
 ## **<p align="center">I recommend that you install [pywal](https://github.com/dylanaraps/pywal) for matching colors.</p>**
 
