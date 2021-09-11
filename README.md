@@ -1,6 +1,6 @@
 
 
-# Rofi's powermenu is currently broken.
+# <p align="center">Rofi's powermenu is currently broken.</p>
 
 ## **<p align="center">I recommend that you install [pywal](https://github.com/dylanaraps/pywal) for matching colors.</p>**
 
